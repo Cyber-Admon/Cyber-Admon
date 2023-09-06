@@ -6,8 +6,8 @@ Python Developer
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [pdfrinceadebayo123@gmail.com](mailto:pdfrinceadebayo123@gmail.com)
-* 🧠  I'm learning Django, Penetration Tesing
-* 🤝  I'm open to collaborating on Python Development and Security Systems projects
+* 🧠  I'm learning Python, Penetration Tesing, Data Analysis, Automation and Scripting
+* 🤝  I'm open to collaborating on Python Development, Data Science, Automation Engineering and Security Systems projects
 
 <a href="https://www.github.com/Cyber-Admon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Cyber-Admon?logo=github&style=for-the-badge&color=000000&labelColor=14532d" /></a><a href="https://www.twitter.com/Cyber_Admon" target="_blank" rel="noreferrer"><img
